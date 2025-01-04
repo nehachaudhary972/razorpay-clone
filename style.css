@@ -89,6 +89,7 @@ button {
 
 button:hover {
     background-color: rgb(0, 72, 255);
+    cursor: pointer;
 }
 
 h1 {
@@ -277,6 +278,7 @@ span {
 
 #button-two:hover {
     background-color: rgb(0, 72, 255);
+    cursor: pointer;
 }
 
 #highlighted-text {

@@ -16,7 +16,7 @@
 }
 
 body {
-
+     
     background-color: #02042A;
 }
 
@@ -59,7 +59,7 @@ body {
 
 .background {
 
-    height: 670px;
+    height: 600px;
     width: 100%;
     display: flex;
 
@@ -111,12 +111,13 @@ span {
 
 .bg-img {
     margin-left: 250px;
+    margin-top: 40px;
 }
 
 .second {
     background-color: white;
 
-    height: 650px;
+    height: 630px;
     width: 100%;
 
 }
@@ -155,7 +156,7 @@ span {
 }
 
 .horizontal-bullets li {
-    list-style-position: outside;
+    
     width: 15px;
     height: 15px;
 }
@@ -465,7 +466,7 @@ span {
 .sixth-section {
     /*background-color: rgb(237, 241, 243);*/
     background-color: rgb(3, 76, 187);
-    height: 850px;
+    height: 150vh;
     width: 100%;
 }
 
@@ -494,7 +495,8 @@ span {
     justify-content: center;
     row-gap: 120px;
     column-gap: 20px;
-    margin: 70px;
+    margin-top: 80px;
+    margin-left: 130px;
 }
 
 .item1 {
@@ -539,19 +541,7 @@ span {
     color: white;
 }
 
-.item7 {
-    align-self: center;
-    height: 160px;
-    width: 160px;
-    color: white;
-}
 
-.item8 {
-    align-self: center;
-    height: 160px;
-    width: 160px;
-    color: white;
-}
 
 .seventh-section {
     height: 550px;
@@ -667,92 +657,92 @@ span {
     border-radius: 2px;
 }
 
-.eight {
-    height: 550px;
+.eight{
+    
+    height: 100vh;
     width: 100%;
-    background-color: white;
-
 }
 
 .grid3-container {
+    padding-top: 80px;
     display: grid;
-    height: 350px;
+    height: 600px;
     width: 100%;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     align-items: center;
     justify-content: center;
-    row-gap: 40px;
-    column-gap: 20px;
-    margin-left: 20px;
+    row-gap: 80px;
+    column-gap: 40px;
+   
     background-color: white;
 }
 
 
 .Grid3-item {
     align-self: center;
-    height: 230px;
-    width: 300px;
+    height: 150px;
+    width: 230px;
     color: grey;
     border: 1px solid white;
-
-    padding-top: 40px;
     padding-left: 40px;
+   
+    
     border-radius: 10px;
 }
 
 .Grid4-item {
     align-self: center;
-    height: 230px;
-    width: 300px;
+    height: 150px;
+    width: 230px;
     color: grey;
     border: 1px solid white;
-    padding-top: 40px;
     padding-left: 40px;
+   
     border-radius: 10px;
 }
 
 .Grid5-item {
     align-self: center;
-    height: 230px;
-    width: 300px;
+    height: 150px;
+    width: 230px;
     color: grey;
     border: 1px solid white;
-    padding-top: 40px;
     padding-left: 40px;
+    
     border-radius: 10px;
 }
 
 .Grid6-item {
     align-self: center;
-    height: 230px;
-    width: 300px;
+    height: 150px;
+    width: 230px;
     color: grey;
     border: 1px solid white;
-    padding-top: 40px;
     padding-left: 40px;
+    
     border-radius: 10px;
 }
 
 .Grid7-item {
     align-self: center;
-    height: 230px;
-    width: 300px;
+    height: 150px;
+    width: 230px;
     color: grey;
     border: 1px solid white;
-    padding-top: 40px;
     padding-left: 40px;
+    
     border-radius: 10px;
 }
 
 .Grid8-item {
     align-self: center;
-    height: 230px;
-    width: 300px;
+    height: 150px;
+    width: 230px;
     color: grey;
     border: 1px solid white;
-    padding-top: 40px;
     padding-left: 40px;
+   
     border-radius: 10px;
 }
 
